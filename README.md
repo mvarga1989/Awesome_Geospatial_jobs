@@ -14,4 +14,4 @@
 - [**GeoSearch Inc.**](www.geosearch.com)
 - [**GEOWEBFORUM**](https://www.geowebforum.ch/thema.php?themenID=454)
 - [**Job-Room**](https://www.job-room.ch/home/job-seeker)
-- [**Spatial Analysis online**](https://spatialanalysisonline.com/jobs.html)
+- [**Spatial Analysis online**](https://spatialanalysisonline.com/jobs.html) 
