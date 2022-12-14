@@ -1,1 +1,17 @@
-# Awesome_Geospatial_jobs
+# Geospatial, geomatics jobs (Geomatik, Landvermessung)
+
+- [**Academic positions**](https://academicpositions.com/)
+- [**Academics.de**](https://www.academics.de/)
+- [**Arbeit Schweiz**](https://www.arbeit.swiss/secoalv/de/home.html)
+- [**Arbeitsplatzeerde**](https://arbeitsplatz-erde.de/)
+- [**DVW e.V. Gesellschaft für Geodäsie, Geoinformation und LandmanagementJobbörse**](https://dvw.de/beruf/jobboerse)
+- [**DVW**](https://dvw.de/beruf/jobboerse)
+- [**Earthworks jobs**](https://www.earthworks-jobs.com/)
+- [**EURAXESS**](https://euraxess.ec.europa.eu/)
+- [**FHNW**](https://www.fhnw.ch/de/die-fhnw/hochschulen/architektur-bau-geomatik/institute/institut-geomatik/geomatik-stellenportal/)
+- [**Geodäsie (DGK)**](https://dgk.badw.de/stellenangebote.html)
+- [**GeoJobs**](https://www.geobranchen.de/geojobs/)
+- [**GeoSearch Inc.**](www.geosearch.com)
+- [**GEOWEBFORUM**](https://www.geowebforum.ch/thema.php?themenID=454)
+- [**Job-Room**](https://www.job-room.ch/home/job-seeker)
+- [**Spatial Analysis online**](https://spatialanalysisonline.com/jobs.html)
