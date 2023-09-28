@@ -1,4 +1,4 @@
-# Community list of websites listing open job opportunities  (offene stelle geomatik).
+# Community list of websites listing open job opportunities  (offene stelle).
 
 ## You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Awesome_Geospatial_jobs/pulls) or an [issue](https://github.com/mvarga1989/Awesome_Geospatial_jobs/issues).
 
@@ -44,6 +44,7 @@
 - [**University Basel**](https://www.unibas.ch/de/Arbeiten-an-der-Universitaet-Basel/Offene-Stellen.html)
 
 ## Other links
-
+- [**AutoGeoJobs** A bi-weekly auto-generated newsletter for jobs in the geospatial industry](https://github.com/dchirst/autogeojobs)
 - [**A running list of 200+ companies hiring for geospatial & climate-tech roles**](https://www.linkedin.com/pulse/running-list-200-companies-hiring-geospatial-roles-ali-ahmadalipour/)
 - [**List of 500+ geospatial companies**](https://github.com/chrieke/awesome-geospatial-companies)
+- [**Earth Observation Companies & Jobs**](https://github.com/DahnJ/EO-jobs#portals--jobs)
