@@ -1,6 +1,6 @@
-# Community list of websites listing open job opportunities  (offene stelle).
+# Community list of websites listing open job opportunities in geosciences and geospatial industry (offene stelle).  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Awesome_Geospatial_jobs/pulls) or an [issue](https://github.com/mvarga1989/Awesome_Geospatial_jobs/issues).
+### You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Awesome_Geospatial_jobs/pulls) or an [issue](https://github.com/mvarga1989/Awesome_Geospatial_jobs/issues).
 
 ### Some of the websites focus only on the geospatial domain (geodesy, geomatics, GIS, land surveying, mapping) and on german-speaking countries.
 
@@ -36,6 +36,8 @@
 - [**Job-Room**](https://www.job-room.ch/home/job-seeker)
 - [**Publicjobs.ch**](https://www.publicjobs.ch/)
 
+## Cities and cantons
+- [**Kanton Zürich**](https://live.solique.ch/KTZH/de/#/)
 
 ## Universities
 - [**ETH Zurich**](https://jobs.ethz.ch/site/index)
