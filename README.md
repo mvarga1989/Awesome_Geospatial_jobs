@@ -7,7 +7,6 @@
 ## Academic and public institutions
 - [**Academic positions**](https://academicpositions.com/)
 - [**Academics.de**](https://www.academics.de/)
-- [**City of Zürich**](https://www.stadt-zuerich.ch/content/portal/de/index/jobs/offene_stellen.html)
 - [**EGU jobs**](https://www.egu.eu/jobs/?limit=10&sortby=-created_at&sortby=-created_at&page=&keywords=&division=8)
 - [**EURAXESS**](https://euraxess.ec.europa.eu/)
 - [**LinkeIn**](https://www.linkedin.com/jobs/)
@@ -37,6 +36,7 @@
 - [**Publicjobs.ch**](https://www.publicjobs.ch/)
 
 ## Cities and cantons
+- [**City of Zürich**](https://www.stadt-zuerich.ch/content/portal/de/index/jobs/offene_stellen.html)
 - [**Kanton Zürich**](https://live.solique.ch/KTZH/de/#/)
 
 ## Universities
