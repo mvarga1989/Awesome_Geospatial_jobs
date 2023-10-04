@@ -4,15 +4,26 @@
 
 ### Some of the websites focus only on the geospatial domain (geodesy, geomatics, GIS, land surveying, mapping) and on german-speaking countries.
 
-## Academic and public institutions
+## Job portals: global
+- [**LinkedIn**](https://www.linkedin.com/jobs/)
+- [**Researchgate**](https://www.researchgate.net/jobs)
+
+## Job portals: Switzerland
+- [**Arbeit Schweiz**](https://www.arbeit.swiss/secoalv/de/home.html)
+- [**Jobs.ch**](www.jobs.ch)
+- [**Job-Room**](https://www.job-room.ch/home/job-seeker)
+- [**Publicjobs.ch**](https://www.publicjobs.ch/)
+
+## Academic positions
 - [**Academic positions**](https://academicpositions.com/)
 - [**Academics.de**](https://www.academics.de/)
 - [**EGU jobs**](https://www.egu.eu/jobs/?limit=10&sortby=-created_at&sortby=-created_at&page=&keywords=&division=8)
 - [**EURAXESS**](https://euraxess.ec.europa.eu/)
-- [**LinkeIn**](https://www.linkedin.com/jobs/)
 - [**myscience.ch**](https://www.myscience.ch/jobs)
 - [**Geodäsie (DGK)**](https://dgk.badw.de/stellenangebote.html)
-- [**Researchgate**](https://www.researchgate.net/jobs)
+
+## Institutions
+- [**Ruag**](https://www.ruag.ch/en/working-us/job-portal)
 - [**Swisstopo**](https://www.swisstopo.admin.ch/de/swisstopo/stellenangebote.html)
 
 ## Industry
@@ -29,11 +40,7 @@
 - [**Spatial Analysis online**](https://spatialanalysisonline.com/jobs.html) 
 
 
-## Switzerland
-- [**Arbeit Schweiz**](https://www.arbeit.swiss/secoalv/de/home.html)
-- [**Jobs.ch**](www.jobs.ch)
-- [**Job-Room**](https://www.job-room.ch/home/job-seeker)
-- [**Publicjobs.ch**](https://www.publicjobs.ch/)
+
 
 ## Cities and cantons
 - [**City of Zürich**](https://www.stadt-zuerich.ch/content/portal/de/index/jobs/offene_stellen.html)
