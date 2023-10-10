@@ -22,12 +22,14 @@
 - [**myscience.ch**](https://www.myscience.ch/jobs)
 - [**Geodäsie (DGK)**](https://dgk.badw.de/stellenangebote.html)
 
-## Jobs: Institutions
+## Institutions and companies
+- [**ABB**](https://careers.abb/dach/de/home)
 - [**Astronomical Institute, University of Bern**](https://www.aiub.unibe.ch/about_us/jobs/index_eng.html)
+- [**Leica**](https://leica-geosystems.com/de-de/about-us/careers/job-openings)
 - [**Ruag**](https://www.ruag.ch/en/working-us/job-portal)
 - [**Swisstopo**](https://www.swisstopo.admin.ch/de/swisstopo/stellenangebote.html)
 
-## Industry
+## Job portals: Industry
 - [**Arbeitsplatzeerde**](https://arbeitsplatz-erde.de/)
 - [**DVW e.V. Gesellschaft für Geodäsie, Geoinformation und LandmanagementJobbörse**](https://dvw.de/beruf/jobboerse)
 - [**Earthworks jobs**](https://www.earthworks-jobs.com/)
@@ -48,8 +50,8 @@
 - [**Kanton Zürich**](https://live.solique.ch/KTZH/de/#/)
 
 ## Universities
-- [**ETH Zurich**](https://jobs.ethz.ch/site/index)
-- [**University Zurich**](https://www.uzh.ch/de/explore/work/jobs)
+- [**ETH Zürich**](https://jobs.ethz.ch/site/index)
+- [**University Zürich**](https://www.uzh.ch/de/explore/work/jobs)
 - [**University Bern**](https://www.karriere.unibe.ch/stellen/stellenportal/index_ger.html)
 - [**University Basel**](https://www.unibas.ch/de/Arbeiten-an-der-Universitaet-Basel/Offene-Stellen.html)
 
