@@ -4,7 +4,7 @@
 
 ### Some of the websites focus only on the geospatial domain (geodesy, geomatics, GIS, land surveying, mapping) and on german-speaking countries.
 
-## Job portals: global
+## Job portals: worldwide
 - [**LinkedIn**](https://www.linkedin.com/jobs/)
 - [**Researchgate**](https://www.researchgate.net/jobs)
 
@@ -14,7 +14,7 @@
 - [**Job-Room**](https://www.job-room.ch/home/job-seeker)
 - [**Publicjobs.ch**](https://www.publicjobs.ch/)
 
-## Academic positions
+## Job portals: Academic positions
 - [**Academic positions**](https://academicpositions.com/)
 - [**Academics.de**](https://www.academics.de/)
 - [**EGU jobs**](https://www.egu.eu/jobs/?limit=10&sortby=-created_at&sortby=-created_at&page=&keywords=&division=8)
@@ -22,7 +22,8 @@
 - [**myscience.ch**](https://www.myscience.ch/jobs)
 - [**Geodäsie (DGK)**](https://dgk.badw.de/stellenangebote.html)
 
-## Institutions
+## Jobs: Institutions
+- [**Astronomical Institute, University of Bern**](https://www.aiub.unibe.ch/about_us/jobs/index_eng.html)
 - [**Ruag**](https://www.ruag.ch/en/working-us/job-portal)
 - [**Swisstopo**](https://www.swisstopo.admin.ch/de/swisstopo/stellenangebote.html)
 
