@@ -10,7 +10,10 @@
 
 ## Job portals: Switzerland
 - [**Arbeit Schweiz**](https://www.arbeit.swiss/secoalv/de/home.html)
+- [**Indeed.ch**](www.indeed.ch)
+- [**Jobagent.ch**](www.jobagent.ch)
 - [**Jobs.ch**](www.jobs.ch)
+- [**Job Channel.ch**](https://www.jobchannel.ch/)
 - [**Job-Room**](https://www.job-room.ch/home/job-seeker)
 - [**Publicjobs.ch**](https://www.publicjobs.ch/)
 
