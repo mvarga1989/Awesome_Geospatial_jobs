@@ -29,6 +29,7 @@
 - [Researchgate](https://www.researchgate.net/jobs)
 
 ## Job portals: Switzerland
+- [Job Portal Swiss Confederation](https://www.stelle.admin.ch/stelle/de/home/stellen/stellenangebot.html)
 - [Arbeit Schweiz](https://www.arbeit.swiss/secoalv/de/home.html)
 - [Indeed.ch](www.indeed.ch)
 - [Jobagent.ch](www.jobagent.ch)
@@ -47,6 +48,7 @@
 
 ## Institutions and companies
 - [ABB](https://careers.abb/dach/de/home)
+- [Agroscope](https://www.agroscope.admin.ch/agroscope/en/home/about-us/vacancies.html)
 - [Astronomical Institute, University of Bern](https://www.aiub.unibe.ch/about_us/jobs/index_eng.html)
 - [Leica](https://leica-geosystems.com/de-de/about-us/careers/job-openings)
 - [Ruag](https://www.ruag.ch/en/working-us/job-portal)
