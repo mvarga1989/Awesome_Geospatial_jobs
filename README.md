@@ -70,6 +70,7 @@
 
 ## Cities and cantons
 - [City of Zürich](https://www.stadt-zuerich.ch/content/portal/de/index/jobs/offene_stellen.html)
+- [City of Zürich](https://www.stadt-zuerich.ch/ted/de/index/geoz/ueber-uns/jobs-geoz.html)
 - [Kanton Zürich](https://live.solique.ch/KTZH/de/#/)
 
 ## Universities
