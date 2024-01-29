@@ -56,6 +56,7 @@
 
 ## Job portals: Industry
 - [Arbeitsplatzeerde](https://arbeitsplatz-erde.de/)
+- [Business geomatics](https://www.business-geomatics.com/category/jobflash/)
 - [DVW e.V. Gesellschaft für Geodäsie, Geoinformation und LandmanagementJobbörse](https://dvw.de/beruf/jobboerse)
 - [Earthworks jobs](https://www.earthworks-jobs.com/)
 - [European Association of Aerial Surveying Industries](https://www.eaasi.eu/offers)
