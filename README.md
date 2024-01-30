@@ -56,6 +56,7 @@
 
 ## Job portals: Industry
 - [Arbeitsplatzeerde](https://arbeitsplatz-erde.de/)
+- [BDVI Stellenangebote](http://www.bdvi.de/de/karriere/stellenmarkt/stellenangebote?jobcat=offer)
 - [Business geomatics](https://www.business-geomatics.com/category/jobflash/)
 - [DVW e.V. Gesellschaft für Geodäsie, Geoinformation und LandmanagementJobbörse](https://dvw.de/beruf/jobboerse)
 - [Earthworks jobs](https://www.earthworks-jobs.com/)
