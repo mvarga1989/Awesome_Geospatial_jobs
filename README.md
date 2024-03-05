@@ -61,6 +61,8 @@
 - [DVW e.V. Gesellschaft für Geodäsie, Geoinformation und LandmanagementJobbörse](https://dvw.de/beruf/jobboerse)
 - [Earthworks jobs](https://www.earthworks-jobs.com/)
 - [European Association of Aerial Surveying Industries](https://www.eaasi.eu/offers)
+- [Geo-Ing](https://www.geo-ing.ch/stellenangebote/)
+- [Geomatik.ch Bezugsquellen](https://geomatik.ch/bezugsquellenregister/)
 - [Geomatik Stellenportal of FHNW](https://www.fhnw.ch/de/die-fhnw/hochschulen/architektur-bau-geomatik/institute/institut-geomatik/geomatik-stellenportal/)
 - [Geomatik-Schweiz](https://geomatik.ch/stellen-2/)
 - [GeoJobs Die Stellenbörse für alle Geobranchen](https://www.geobranchen.de/geojobs/)
