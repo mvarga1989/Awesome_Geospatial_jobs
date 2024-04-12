@@ -2,11 +2,11 @@
 
 **You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Awesome_Geospatial_jobs/pulls) or an [issue](https://github.com/mvarga1989/Awesome_Geospatial_jobs/issues).**
 
-**Please note that most of jobs are general, but some of them websites focus only on the geospatial domain (geodesy, geomatics, GIS, land surveying, mapping) and on german-speaking countries.**
+**Please note that some of the websites focus only on the #geospatial domain (#geodesy, #geomatics, #GIS, land surveying, #mapping) and on german-speaking countries.**
 
 ## Table of contents
 
-* [Community list of websites listing open job opportunities in geosciences and geospatial industry (offene stelle)](https://github.com/mvarga1989/Awesome_Geospatial_jobs)
+* [Community list of websites listing open #job opportunities in #geosciences and geospatial industry (offene stelle)](https://github.com/mvarga1989/Awesome_Geospatial_jobs)
   
 * [Events](#events)
 * [Job portals: worldwide](#job-portals-worldwide)
@@ -18,17 +18,11 @@
 * [Universities](#universities)
 * [Other links](#other-links)
 
-
-## Events
-
-- [ETHzürich job and company fairs](https://ethz.ch/students/en/careers/Startseite_CareerCenter/CareerEvents_Networking/Firmen_Messen.html)
-- [ETH Zürich career events](https://ethcareer.ch/en/events/)
-
 ## Job portals: worldwide
 - [LinkedIn](https://www.linkedin.com/jobs/)
-- [Researchgate](https://www.researchgate.net/jobs)
+- [Xing](https://www.xing.com/)
 
-## Job portals: Switzerland
+## Job portals: Switzerland (all jobs)
 - [Job Portal Swiss Confederation](https://www.stelle.admin.ch/stelle/de/home/stellen/stellenangebot.html)
 - [Arbeit Schweiz](https://www.arbeit.swiss/secoalv/de/home.html)
 - [Indeed.ch](www.indeed.ch)
@@ -36,25 +30,22 @@
 - [Jobs.ch](www.jobs.ch)
 - [Job Channel.ch](https://www.jobchannel.ch/)
 - [Job-Room](https://www.job-room.ch/home/job-seeker)
+- [JobWinner](https://jobwinner.ch/de)
+- [Monster](https://www.monster.ch/de/)
+- [MyJob](https://www.myjob.ch)
 - [Publicjobs.ch](https://www.publicjobs.ch/)
+- [Stellen-Zuerich.ch](https://www.stellen-zuerich.ch/)
 
 ## Job portals: Academic positions
 - [Academic positions](https://academicpositions.com/)
 - [Academics.de](https://www.academics.de/)
+- [Geodäsie (DGK)](https://dgk.badw.de/stellenangebote.html)
 - [EGU jobs](https://www.egu.eu/jobs/?limit=10&sortby=-created_at&sortby=-created_at&page=&keywords=&division=8)
 - [EURAXESS](https://euraxess.ec.europa.eu/)
 - [myscience.ch](https://www.myscience.ch/jobs)
-- [Geodäsie (DGK)](https://dgk.badw.de/stellenangebote.html)
+- [Researchgate](https://www.researchgate.net/jobs)
 
-## Institutions and companies
-- [ABB](https://careers.abb/dach/de/home)
-- [Agroscope](https://www.agroscope.admin.ch/agroscope/en/home/about-us/vacancies.html)
-- [Astronomical Institute, University of Bern](https://www.aiub.unibe.ch/about_us/jobs/index_eng.html)
-- [Leica](https://leica-geosystems.com/de-de/about-us/careers/job-openings)
-- [Ruag](https://www.ruag.ch/en/working-us/job-portal)
-- [Swisstopo](https://www.swisstopo.admin.ch/de/swisstopo/stellenangebote.html)
-
-## Job portals: Industry
+## Job portals: Geospatial industry
 - [Arbeitsplatzeerde](https://arbeitsplatz-erde.de/)
 - [BDVI Stellenangebote](http://www.bdvi.de/de/karriere/stellenmarkt/stellenangebote?jobcat=offer)
 - [Business geomatics](https://www.business-geomatics.com/category/jobflash/)
@@ -69,19 +60,38 @@
 - [Geomatik Alumni](https://www.geomatik-alumni.ch/)
 - [GeoSearch Inc.](www.geosearch.com)
 - [International Society for Photogrammetry and Remote Sensing Job opportunities](https://www.isprs.org/job_opportunities/default.aspx)
-- [Spatial Analysis online](https://spatialanalysisonline.com/jobs.html) 
+- [Spatial Analysis online](https://spatialanalysisonline.com/jobs.html)
+- [Swiss Engineering](https://www.swissengineering.ch/stellenportal)
 
+
+## Institutions and companies
+- [ABB](https://careers.abb/dach/de/home)
+- [Agroscope](https://www.agroscope.admin.ch/agroscope/en/home/about-us/vacancies.html)
+- [Astronomical Institute, University of Bern](https://www.aiub.unibe.ch/about_us/jobs/index_eng.html)
+- [Leica](https://leica-geosystems.com/de-de/about-us/careers/job-openings)
+- [Ruag](https://www.ruag.ch/en/working-us/job-portal)
+- [Swisstopo](https://www.swisstopo.admin.ch/de/swisstopo/stellenangebote.html)
 
 ## Cities and cantons
-- [City of Zürich](https://www.stadt-zuerich.ch/content/portal/de/index/jobs/offene_stellen.html)
-- [City of Zürich](https://www.stadt-zuerich.ch/ted/de/index/geoz/ueber-uns/jobs-geoz.html)
+- [City of Zürich I](https://www.stadt-zuerich.ch/content/portal/de/index/jobs/offene_stellen.html)
+- [City of Zürich II](https://www.stadt-zuerich.ch/ted/de/index/geoz/ueber-uns/jobs-geoz.html)
 - [Kanton Zürich](https://live.solique.ch/KTZH/de/#/)
 
 ## Universities
 - [ETH Zürich](https://jobs.ethz.ch/site/index)
+- [FHNW](https://apply.refline.ch/655298/search.html)
 - [University Zürich](https://www.uzh.ch/de/explore/work/jobs)
 - [University Bern](https://www.karriere.unibe.ch/stellen/stellenportal/index_ger.html)
 - [University Basel](https://www.unibas.ch/de/Arbeiten-an-der-Universitaet-Basel/Offene-Stellen.html)
+
+## Freelance
+- [Fiverr](https://www.fiverr.com/)
+- [Upwork](https://www.upwork.com/)
+
+## Events
+
+- [ETHzürich job and company fairs](https://ethz.ch/students/en/careers/Startseite_CareerCenter/CareerEvents_Networking/Firmen_Messen.html)
+- [ETH Zürich career events](https://ethcareer.ch/en/events/)
 
 ## Other links
 - [AutoGeoJobs A bi-weekly auto-generated newsletter for jobs in the geospatial industry](https://github.com/dchirst/autogeojobs)
