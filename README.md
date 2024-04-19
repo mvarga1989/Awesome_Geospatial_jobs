@@ -1,6 +1,8 @@
 # Community list of websites listing open job opportunities in geosciences and geospatial industry (offene stelle).  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### If my content has added any value to your work, please consider to give a star and/or share on your professional social networks. Thank you!
+#### You wish to assist in making the list more useful, complete and accurate? Contributors are more than welcome. Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
+#### If my content has added any value to your work, please consider giving it a :star: and/or share on your professional social networks. Thank you!
+#### Other useful lists that I am maintaining [lists link](https://github.com/mvarga1989#community-lists-that-i-am-maintaining)
 
 **Please note that some of the websites focus only on the #geospatial domain (#geodesy, #geomatics, #GIS, land surveying, #mapping) and on german-speaking countries.**
 
