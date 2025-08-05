@@ -25,9 +25,11 @@
 - [Xing](https://www.xing.com/)
 
 ## Job portals: Switzerland (all jobs)
+
 - [Job Portal Swiss Confederation](https://www.stelle.admin.ch/stelle/de/home/stellen/stellenangebot.html)
 - [Arbeit Schweiz](https://www.arbeit.swiss/secoalv/de/home.html)
 - [Indeed.ch](www.indeed.ch)
+- [Ingenieur-job.ch](https://ingenieur-job.ch/)
 - [Jobagent.ch](www.jobagent.ch)
 - [Jobs.ch](www.jobs.ch)
 - [Job Channel.ch](https://www.jobchannel.ch/)
@@ -59,6 +61,7 @@
 - [Geomatik Stellenportal of FHNW](https://www.fhnw.ch/de/die-fhnw/hochschulen/architektur-bau-geomatik/institute/institut-geomatik/geomatik-stellenportal/)
 - [Geomatik-Schweiz](https://geomatik.ch/stellen-2/)
 - [GeoJobs Die Stellenbörse für alle Geobranchen](https://www.geobranchen.de/geojobs/)
+- [IGS Schweiz](https://www.igs-ch.ch/de/ueber-uns/igs-bueros.html)
 - [Geomatik Alumni](https://www.geomatik-alumni.ch/)
 - [GeoSearch Inc.](www.geosearch.com)
 - [International Society for Photogrammetry and Remote Sensing Job opportunities](https://www.isprs.org/job_opportunities/default.aspx)
@@ -66,13 +69,19 @@
 - [Swiss Engineering](https://www.swissengineering.ch/stellenportal)
 
 
-## Institutions and companies
+## Institutions
 - [ABB](https://careers.abb/dach/de/home)
 - [Agroscope](https://www.agroscope.admin.ch/agroscope/en/home/about-us/vacancies.html)
 - [Astronomical Institute, University of Bern](https://www.aiub.unibe.ch/about_us/jobs/index_eng.html)
-- [Leica](https://leica-geosystems.com/de-de/about-us/careers/job-openings)
 - [Ruag](https://www.ruag.ch/en/working-us/job-portal)
 - [Swisstopo](https://www.swisstopo.admin.ch/de/swisstopo/stellenangebote.html)
+
+## Companies
+- [Amberg Engineering](https://ambergengineering.com/career-loga)
+- [Emch Berger Gruppe](https://www.emchberger.ch/de/jobs?division=76)
+- [Hexagon](https://hexagon.com/company/careers/job-listings#jl_country=Switzerland&nearme=1)
+- [Leica](https://leica-geosystems.com/de-de/about-us/careers/job-openings)
+
 
 ## Cities and cantons
 - [City of Zürich I](https://www.stadt-zuerich.ch/content/portal/de/index/jobs/offene_stellen.html)
