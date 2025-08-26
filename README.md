@@ -38,6 +38,7 @@
 - [Monster](https://www.monster.ch/de/)
 - [MyJob](https://www.myjob.ch)
 - [Publicjobs.ch](https://www.publicjobs.ch/)
+- [Smart Recruiters](https://jobs.smartrecruiters.com/)
 - [Stellen-Zuerich.ch](https://www.stellen-zuerich.ch/)
 
 ## Job portals: Academic positions
@@ -81,7 +82,14 @@
 - [Emch Berger Gruppe](https://www.emchberger.ch/de/jobs?division=76)
 - [Hexagon](https://hexagon.com/company/careers/job-listings#jl_country=Switzerland&nearme=1)
 - [Leica](https://leica-geosystems.com/de-de/about-us/careers/job-openings)
-
+- [Anliker](https://www.anliker.ch/stellen)
+- [Marti](https://www.marti.com/ch_de/jobs-und-karriere/)
+- Eberhard
+- Gruner
+- [EBP](https://www.ebp.global/ch-de)
+- [Basler und Hoffman](https://www.baslerhofmann.ch/)
+- [Willers](https://willers.ch/jobs/)
+- [Itten Brechbuehl](https://www.ittenbrechbuehl.ch/de/)
 
 ## Cities and cantons
 - [City of Zürich I](https://www.stadt-zuerich.ch/content/portal/de/index/jobs/offene_stellen.html)
