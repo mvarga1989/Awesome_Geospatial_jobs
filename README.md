@@ -35,6 +35,7 @@
 - [Job Channel.ch](https://www.jobchannel.ch/)
 - [Job-Room](https://www.job-room.ch/home/job-seeker)
 - [JobWinner](https://jobwinner.ch/de)
+- [Job Scout 25](https://www.jobscout24.ch/)
 - [Monster](https://www.monster.ch/de/)
 - [MyJob](https://www.myjob.ch)
 - [Publicjobs.ch](https://www.publicjobs.ch/)
@@ -51,6 +52,7 @@
 - [Researchgate](https://www.researchgate.net/jobs)
 
 ## Job portals: Geospatial industry
+
 - [Arbeitsplatzeerde](https://arbeitsplatz-erde.de/)
 - [BDVI Stellenangebote](http://www.bdvi.de/de/karriere/stellenmarkt/stellenangebote?jobcat=offer)
 - [Business geomatics](https://www.business-geomatics.com/category/jobflash/)
@@ -76,6 +78,7 @@
 - [Astronomical Institute, University of Bern](https://www.aiub.unibe.ch/about_us/jobs/index_eng.html)
 - [Ruag](https://www.ruag.ch/en/working-us/job-portal)
 - [Swisstopo](https://www.swisstopo.admin.ch/de/swisstopo/stellenangebote.html)
+- [Swiss-arc.ch](https://jobs.swiss-arc.ch/de/)
 
 ## Companies
 - [Amberg Engineering](https://ambergengineering.com/career-loga)
@@ -86,6 +89,10 @@
 - [Marti](https://www.marti.com/ch_de/jobs-und-karriere/)
 - Eberhard
 - Gruner
+- Caprez Inigenieure AG
+- Gruner
+- Basler and Hoffman
+- Lombardi Engineering
 - [EBP](https://www.ebp.global/ch-de)
 - [Basler und Hoffman](https://www.baslerhofmann.ch/)
 - [Willers](https://willers.ch/jobs/)
@@ -104,6 +111,7 @@
 - [University Basel](https://www.unibas.ch/de/Arbeiten-an-der-Universitaet-Basel/Offene-Stellen.html)
 
 ## Freelance
+
 - [Fiverr](https://www.fiverr.com/)
 - [Upwork](https://www.upwork.com/)
 
