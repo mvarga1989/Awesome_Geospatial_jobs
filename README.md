@@ -25,12 +25,16 @@
 - [Xing](https://www.xing.com/)
 
 ## Job portals: Switzerland (all jobs)
+- [List of job portals](https://www.jobagent.ch/ratgeber-tools/relevante-jobboersen-schweiz)
 
+- [Jobagent.ch](www.jobagent.ch)
+- [workpool-jobs](https://www.workpool-jobs.ch/)
+- [100000jobs](https://www.100000jobs.ch/)
 - [Job Portal Swiss Confederation](https://www.stelle.admin.ch/stelle/de/home/stellen/stellenangebot.html)
 - [Arbeit Schweiz](https://www.arbeit.swiss/secoalv/de/home.html)
 - [Indeed.ch](www.indeed.ch)
 - [Ingenieur-job.ch](https://ingenieur-job.ch/)
-- [Jobagent.ch](www.jobagent.ch)
+
 - [Jobs.ch](www.jobs.ch)
 - [Job Channel.ch](https://www.jobchannel.ch/)
 - [Job-Room](https://www.job-room.ch/home/job-seeker)
@@ -81,15 +85,20 @@
 - [Swiss-arc.ch](https://jobs.swiss-arc.ch/de/)
 
 ## Companies
+
+- [Afry Schweiz AG]
 - [Amberg Engineering](https://ambergengineering.com/career-loga)
 - [Emch Berger Gruppe](https://www.emchberger.ch/de/jobs?division=76)
+- [EBP](https://www.ebp.global/ch-de/career/stellenangebote)
 - [Hexagon](https://hexagon.com/company/careers/job-listings#jl_country=Switzerland&nearme=1)
 - [Leica](https://leica-geosystems.com/de-de/about-us/careers/job-openings)
 - [Anliker](https://www.anliker.ch/stellen)
 - [Marti](https://www.marti.com/ch_de/jobs-und-karriere/)
+- [MEB group](https://meb.abacuscity.ch/de/jobportal)
 - Eberhard
 - Gruner
 - Caprez Inigenieure AG
+- [Kissling + Zbinden AG](https://www.kzag.ch/karriere/offene-stellen/)
 - Gruner
 - Basler and Hoffman
 - Lombardi Engineering
@@ -106,6 +115,7 @@
 ## Universities
 - [ETH Zürich](https://jobs.ethz.ch/site/index)
 - [FHNW](https://apply.refline.ch/655298/search.html)
+- [OST](https://jobs-ost.ch/)
 - [University Zürich](https://www.uzh.ch/de/explore/work/jobs)
 - [University Bern](https://www.karriere.unibe.ch/stellen/stellenportal/index_ger.html)
 - [University Basel](https://www.unibas.ch/de/Arbeiten-an-der-Universitaet-Basel/Offene-Stellen.html)
@@ -126,3 +136,6 @@
 - [List of 500+ geospatial companies](https://github.com/chrieke/awesome-geospatial-companies)
 - [Earth Observation Companies & Jobs](https://github.com/DahnJ/EO-jobs#portals--jobs)
 - [Application guide: how to apply for a job](https://ethz.ch/students/en/careers/Startseite_CareerCenter/Standortbestimmung/BRG_Detail.html)
+
+
+
